@@ -1,0 +1,582 @@
+.top1{
+  background-image: url("smoke.jpg");
+  height:600px;
+  width: 100%;
+  background-color: #80ced6;
+  background-repeat: no-repeat;
+  object-fit: contain;
+
+}
+.sign{
+  margin-left: -10rem;
+  display: inline;
+  margin-top: -7rem;
+  height:200px;
+}
+.aboutme{
+  padding-left: 670px;
+padding-top: 40px;
+}
+a{
+  color:#E4C5AF;
+  padding-right: 25px;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+.fa{
+  padding-right: 3px;
+}
+h1{
+  font-family: Parisienne;
+  color:	#CDC1C5;
+  margin-top: 6rem;
+  font-size:60px;
+  opacity: 50%;
+}
+
+h2{
+  padding-right: 11rem;
+  color:white;
+  padding-top: 5rem;
+  opacity: 40%;
+}
+.top2{
+  width: 100%;
+  height:500px;
+  display: table;
+}
+.white{
+  background-color: #FFC9C9;
+  width: 50%;
+  height:500px;
+  display: table-cell;
+
+}
+.black{
+  background-color: #FFE9E9;
+  width: 50%;
+  height:500px;
+  display: table-cell;
+}
+.selfdiv{
+  position: absolute;
+
+}
+.self{
+  display: block;
+  padding-left: 520px;
+  padding-top:250px;
+}
+.hello{
+  font-size: 60px;
+  color: red;
+  margin-top: 1rem;
+  display: block;
+  padding-left: 450px;
+
+}
+.utkarsh{
+  font-size: 80px;
+  color:  black;
+  font-weight: bold;
+  margin-top: -2rem;
+  display: block;
+  padding-left: 400px;
+  font-family: 'Great Vibes', cursive;
+
+
+}
+.note1{
+height:200px;
+width: 400px;
+}
+.note{
+  font-size: 19px;
+margin-left: 2rem;
+margin-right: 4rem;
+padding-top: 200px;
+color:#810541;
+float:right;
+text-align: left;
+font-family: 'Open Sans Condensed', sans-serif;
+display: block;
+
+
+}
+.note2{
+height:200px;
+width: 400px;
+}
+.note22{
+  font-size: 19px;
+padding-left: 150px;
+text-align: left;
+margin-right: 13rem;
+margin-top: 2rem;
+color:#F52887;
+position: absolute;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+.person{
+  margin-left: 7rem;
+  position: absolute;
+  display: block;
+  margin-top: 1rem;
+  float: right;
+
+
+}
+.park{
+  margin-left: 23rem;
+  margin-top: 18rem;
+  position: absolute;
+  display: block;
+}
+
+
+
+
+
+.dark{
+  background-color: black;
+  width: 100%;
+  height:450px;
+  position: absolute;
+
+  display: table-table-cell;
+
+
+
+}
+
+.firstc{
+  background-color: #884EA0
+  width: 3.3%;
+  height:50px;
+  position: relative;
+
+
+}
+.secondc{
+  background-color: #7D3C98;
+  width: 33.3%;
+  height:250px;
+  z-index: -2;
+
+
+}
+.thirdc{
+  background-color:  #D7BDE2;
+  width: 33.3%;
+  height:250px;
+  margin-left: 25.2rem;
+  margin-top: -13rem;
+  z-index: 4;
+  position: relative;
+
+
+}
+.fourthc{
+  background-color: #7D3C98;
+  width: 33.3%;
+  height:250px;
+  margin-left: 50rem;
+  margin-top: -18.2rem;
+  z-index: -2;
+
+}
+
+.play{
+  margin-left: 9rem;
+  font-size: 90px;
+  margin-top: 5rem;
+  font-family: Righteous;
+  opacity: 40%;
+}
+
+.design{
+  font-size: 60px;
+  margin-top: -2rem;
+  margin-left: 15px;
+}
+.develop{
+  font-size: 60px;
+  margin-top: -2rem;
+  margin-left: 25px;
+  color: black;
+
+}
+.deploy{
+
+  font-size: 60px;
+  margin-top: -2rem;
+  margin-left: 55px;
+
+}
+.p1{
+  text-align: left;
+  font-size: 18px;
+  margin-left: 4rem;
+  margin-right: 2rem;
+  margin-top: 0rem;
+  font-family: 'Architects Daughter', cursive;
+  color:white;
+
+}
+.designlogo{
+  float: left;
+  margin-top: -1rem;
+}
+
+
+.p2{
+  text-align: left;
+  font-size: 16px;
+  margin-left: 4rem;
+  margin-right: 2rem;
+  margin-top: -1.2rem;
+  font-family: 'Architects Daughter', cursive;
+    color:black;
+
+}
+.designlogo2{
+  float: left;
+  margin-right: 2rem;
+  margin-top: -1rem;
+  margin-left: 1rem;
+}
+
+
+
+.p3{
+  text-align: left;
+
+
+  font-size: 18px;
+  margin-left: 11rem;
+  margin-right: 1rem;
+  margin-top: -1rem;
+  font-family: 'Architects Daughter', cursive;
+    color:white;
+
+}
+.designlogo3{
+  float: left;
+  margin-top: -4rem;
+  margin-left: 3rem;
+}
+.hacker{
+  float: right;
+   margin-left: 28rem;
+   margin-top: -1rem;
+   position: absolute;
+}
+
+
+
+.top3{
+  background-image: url('news.jpg');
+  position: absolute;
+  margin-top: 28.5rem;
+  width:100%;
+  height:650px;
+  opacity: 90%;
+
+}
+.newone{
+  width: 60%;
+  height:200px;
+background-image: url("food.jpg");
+  repeat:no-repeat;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  shadow:20%;
+}
+
+.chef{
+  opacity: 100%;
+  margin-left: 2rem;
+  margin-top: 4rem;
+  float: left;
+
+}
+.chefp{
+  text-align: left;
+  margin-right: 45rem;
+  color:white;
+  padding-top: 45px;
+  position: absolute;
+  margin-left: 2rem;
+
+}
+.newtwo{
+  width: 60%;
+  height:200px;
+background-image: url("cricket11.jpg");
+  repeat:no-repeat;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  shadow:20%;
+
+}
+.cricket{
+  opacity: 100%;
+  margin-left: 2rem;
+  margin-top: 3rem;
+  margin-right: 3rem;
+  float: left;
+
+
+}
+.cricketp{
+  text-align: left;
+  margin-right: 43rem;
+  color:white;
+  padding-top: 50px;
+  position: absolute;
+  margin-left: -1rem;
+
+}
+
+.newthree{
+  width: 60%;
+  height:200px;
+background-image: url("plane.jpg");
+  repeat:no-repeat;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  shadow:20%;
+
+
+}
+.travel{
+  opacity: 100%;
+  margin-left: 2.5rem;
+  margin-top: 3rem;
+  margin-right: 4rem;
+  float: left;
+
+}
+.travelp{
+  text-align: left;
+  margin-right: 40rem;
+  color:white;
+  padding-top: 45px;
+  position: absolute;
+  margin-left: -2rem;
+
+}
+
+
+.contact{
+  height:300px;
+  width: 100%;
+  background-image: url('contact.png');
+  position: absolute;
+  display: block;
+  margin-top: 70rem;
+  opacity: 60%;
+}
+
+.back{
+  margin-left: 48rem;
+  margin-top: 1rem;
+  position: absolute;
+  z-index: 3;
+  opacity: 70%;
+}
+.msg{
+  height:200px;
+  width: 200px;
+  opacity: 100%;
+  position: absolute;
+  margin-top: 70rem;
+
+}
+
+.message{
+  height:250px;
+  width: 250px;
+  opacity: 100%;
+  margin-left: 1rem;
+  margin-top: 0rem;
+
+}
+.call{
+  font-size: 25px;
+  color: #2C0513;
+  position: absolute;
+  margin-right: 31rem;
+  margin-left: 19rem;
+  margin-top: 4rem;
+  text-align: left;
+  font-weight: bold;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.dream{
+  position: absolute;
+  margin-left: 28rem;
+  font-size: 200px;
+  color: black;
+  opacity: 70%;
+  margin-top: -41rem;
+}
+.desire{
+  position: absolute;
+  margin-left: 28rem;
+  font-size: 200px;
+  color: black;
+  opacity: 30%;
+  margin-top: -28rem;
+
+}
+.deserve{
+  position: absolute;
+  margin-left: 28rem;
+  font-size: 170px;
+  color: black;
+  opacity: 30%;
+  margin-top: -13rem;
+
+}
+
+.contactme{
+  position: absolute;
+  margin-left: 30rem;
+  font-size: 100px;
+  color: black;
+  opacity: 20%;
+  margin-top: 13rem;
+
+}
+.form{
+  margin-left: 50rem;
+  position: absolute;
+  margin-top: 3rem;
+}
+.ss{
+  width: 100px;
+  color:red;
+  font-weight: bold;
+  height:20px;
+  background-color: #85C1E9;
+  margin-left: 8.4rem;
+  margin-top: 1.5rem;
+}
+.ss:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.ok{
+ padding-left: 22px;
+ color: #F70949;
+ font-weight: bold;
+
+}
+.mk{
+  padding-top: -2rem;
+  position: absolute;
+  color: #0050FF;
+  font-weight: bold;
+}
+.area{
+  margin-left: 6.5rem;
+
+}
+
+.foot{
+  position:absolute;
+    left:0px;
+    bottom:-2360px;
+    height:70px;
+    width:100%;
+    background:black;
+
+}
+.foter{
+  color: grey;
+  text-align: center;
+  font-size: 10px;
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+.anchor{
+  margin-left:27rem;
+  color: white;
+  margin-top: 0.5rem;
+  position: absolute;
+}
+
+.anchor2{
+
+  color: white;
+    margin-top: 0.5rem;
+      margin-left:35rem;
+      position: absolute;
+
+}
+
+.anchor3{
+
+  color: white;
+    margin-top: 0.5rem;
+    position: absolute;
+        margin-left:42rem;
+
+}
+
+
+.anchor4{
+
+  color: white;
+    margin-top: 0.5rem;
+    position: absolute;
+        margin-left:48rem;
+
+}
+.topam{
+  background-image: url("am.jfif");
+  opacity: 100%;
+  height:600px;
+  width: 100%;
+  background-color: black;
+  background-repeat: no-repeat;
+  object-fit: contain;
+
+}
+.am1s{
+  margin-left: -4rem;
+  margin-top: -5rem;
+}
+.aboutme1{
+  text-align: center;
+
+  margin-top: -2rem;
+  margin-left:-6rem;
+}
+.me1{
+  margin-top: -5rem;
+  margin-left:0rem;
+}
+.myp{
+  color: white;
+  text-align: left;
+  margin-left: 2rem;
+  padding-right: 5rem;
+  position:absolute;
+  margin-top: -1rem;
+  font-size: 16px;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.foot1{
+  position:absolute;
+    left:0px;
+    bottom:-113px;
+    height:70px;
+    width:100%;
+    background:black;
+
+}
